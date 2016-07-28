@@ -1,0 +1,19 @@
+.user-filter-container {
+    width: 100%;
+    display: flex;
+    border-style: solid;
+    border-width: 1px;
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+
+#filter-label {
+    font-weight: bold;
+}
+
+#filteredName {
+    width: 60%;
+    height: 30px;
+    margin-left: 47px;
+}

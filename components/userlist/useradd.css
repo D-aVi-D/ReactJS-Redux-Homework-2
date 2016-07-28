@@ -1,0 +1,27 @@
+.user-add-container {
+    width: 100%;
+    display: flex;
+    border-style: solid;
+    border-width: 1px;
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+
+#username-label {
+    font-weight: bold;
+}
+
+#enteredName {
+    width: 60%;
+    height: 30px;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+
+#addNameButton {
+    margin-left: 20px;
+    height: 30px;
+    display: inline-block;
+    margin-top: 10px;
+}

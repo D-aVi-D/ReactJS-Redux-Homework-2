@@ -1,0 +1,10 @@
+#delElement {
+    margin-left: 50%;
+}
+
+.user-info {
+	background-color: Orange;
+	border-style: solid;
+    border-width: 1px;
+    padding-left: 10px;
+}
